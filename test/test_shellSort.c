@@ -124,7 +124,7 @@ void test_sorting_three_elements_with_one_negative_element(void){
 
 /**
  *    Sort array:
- *       3,82,9,-4 => -4,3,9,82
+ *       -41,-100,-11,-5,-84 => -100,-84,-41,-11,-5
  *
  */
 void test_sorting_five_negative_elements(void){

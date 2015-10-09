@@ -4,7 +4,7 @@
 
 
 int *shellSort(int *arr, int numOfElem){
-	int firstValue, secondValue, gap, i, j, value;
+	int gap, i, j, value;
 	i = 0;
 	j = 0;
 	gap = numOfElem;
